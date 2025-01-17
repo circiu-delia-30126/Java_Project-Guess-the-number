@@ -1,1 +1,2 @@
 # Java_Project-Guess-the-number
+The Java Swing-based application "Guess the Number" is an interactive game where users attempt to guess a randomly generated number between 1 and 100. The program provides feedback for each guess ("Too low," "Too high," or "Correct"), tracks the number of attempts, and displays the result upon a correct guess. Key features include input validation, dynamic feedback, and user-friendly design with intuitive components such as labels, text fields, and buttons.
